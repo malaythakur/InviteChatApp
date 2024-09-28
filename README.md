@@ -15,6 +15,13 @@ Welcome to the Chat App! This application allows users to create chat rooms and 
 - **AWS Amplify**: For backend services and GraphQL API.
 - **Chat UI Kit**: For chat interface components.
 
+## Demo
+
+![Chat App Demo](chat-app-on-aws/images/testing_demo.png)
+
+This is a screenshot of the chat app in action.
+
+
 ## Getting Started
 
 To get a local copy of the project up and running, follow these steps:
