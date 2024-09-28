@@ -73,22 +73,40 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 ### Steps to Contribute
 
-1. Fork the repository.
-2. Create your feature branch:
-   ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m 'Add some feature'
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/YourFeatureName
-   ```
-5. Open a pull request.
+1. **Fork the repository**:
+   - Click the "Fork" button at the top-right corner of the repository page to create a copy of the repository under your GitHub account.
 
+2. **Clone the forked repository**:
+   - Clone your forked repository to your local machine:
+     ```bash
+     git clone https://github.com/malaythakur/InviteChatApp.git
+     ```
 
+3. **Create your feature branch**:
+   - Navigate to the project directory and create a new branch from `development`:
+     ```bash
+     git checkout development
+     git checkout -b feature/YourFeatureName
+     ```
+
+4. **Commit your changes**:
+   - Make your changes and commit them:
+     ```bash
+     git commit -m 'Add some feature'
+     ```
+
+5. **Push to the branch**:
+   - Push your changes to your forked repository:
+     ```bash
+     git push origin feature/YourFeatureName
+     ```
+
+6. **Open a pull request**:
+   - Go to the original repository where you want to submit your changes.
+   - You will see a prompt to compare your branch. Click on "Compare & pull request."
+   - Add a title and description for your pull request, explaining the changes you made.
+   - Ensure the base branch is set to `development` and the compare branch is set to your feature branch (e.g., `feature/YourFeatureName`).
+   - Click on "Create pull request" to submit it.
 ## Contact
 
 Your Name - [Malay Thakur](malaythakur13@gmail.com)
