@@ -109,6 +109,6 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
    - Click on "Create pull request" to submit it.
 ## Contact
 
-Your Name - [Malay Thakur](malaythakur13@gmail.com)
+[Malay Thakur](malaythakur13@gmail.com)
 
-Project Link: [https://github.com/malaythakur/InviteChatApp.git](https://github.com/malaythakur/InviteChatApp.git)
+[https://github.com/malaythakur/InviteChatApp.git](https://github.com/malaythakur/InviteChatApp.git)
